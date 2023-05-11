@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/tennis.png");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/Tennis.png");
   background-position: 50% 50%;
 }
 
@@ -184,7 +184,7 @@
 
 .u-section-3 .u-image-1 {
   min-height: 310px;
-  background-image: url("images/tennis2.png");
+  background-image: url("images/Tennis2.png");
   background-size: contain;
   background-position: 50% 50%;
 }
